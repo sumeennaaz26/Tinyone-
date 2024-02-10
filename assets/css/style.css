@@ -1,0 +1,90 @@
+/* ############ header section ########### */
+
+.header {
+    background-color: #fcdb00;
+    padding: 55px 100px;
+}
+
+.navbar ul {
+    display: inline-block;
+}
+
+.navbar ul li {
+    display: inline-block;
+    margin: 0px 18px;
+}
+
+.navbar ul li a {
+    padding: 0px 18pxpx;
+    color: #010101;
+    font-weight: bold;
+    font-size: 22px;
+    text-transform: capitalize;
+    display: inline-block;
+    line-height: 47px;
+}
+
+.brandLinks li{
+    display: inline-block;
+    margin-right: 40px;
+}
+.brandLinks li a i{
+    font-size: 40px;
+}
+
+
+/* ############ features section ########### */
+
+.brandIcon i{
+    font-size: 40px;
+}
+
+/* ############ footer section ########### */
+
+.footer {
+    background-color: #000;
+    padding: 55px 100px;
+}
+
+.footer h2{
+    color: #fcdb00;
+    font-weight: lighter;
+}
+
+#email{
+    width: 580px;
+    height: 50px;
+    border-radius: 5px;
+    padding:0px 30px;
+    font-size: 20px;
+}
+#submit{
+    width: 125px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #fcdb00;
+    font-size: 20px;
+    margin-left: 25PX;
+    font-weight: bold;
+}
+.footer ul{
+    display: inline-block;
+}
+.footer ul li{
+    display: inline-block;
+}
+.footer ul li a i{
+    color: #fcdb00;
+    font-size: 40px;
+    text-align: center;
+    margin: 0px 15px;
+}
+
+.address p{
+    color: white;
+}
+
+.footCol2 ul li a{
+    text-decoration: none;
+    color: white;
+}
